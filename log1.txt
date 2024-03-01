@@ -1,1 +1,5 @@
 hi log1.txt
+
+def fun(name):
+	return name + 'hello'
+fun('patil')
