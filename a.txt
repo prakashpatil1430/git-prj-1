@@ -2,3 +2,4 @@ this first line in a file
 second line added in a.txt
 third line added in a.txt
 fourt line added
+5th line added
