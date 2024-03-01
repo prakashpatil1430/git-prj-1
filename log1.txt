@@ -3,4 +3,5 @@ hi log1.txt
 def fun(name):
 	return name + 'hello'
 	res1 = f'antthing{name}'
+	res2 = ccc
 fun('patil')
